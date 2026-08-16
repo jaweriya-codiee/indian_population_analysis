@@ -14,7 +14,7 @@ This project analyzes India's population data using Python.
 * Python
 * Pandas
 * Matplotlib
-* Jupyter Notebook
+* GoogleColab Notebook
 
 ## Dataset
 
