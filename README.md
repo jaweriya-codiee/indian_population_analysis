@@ -1,2 +1,25 @@
-# indian_population_analysis
-Data analysis and visualization of India's population data using Python, Pandas, and Matplotlib
+# 🇮🇳 India Population Analysis
+
+This project analyzes India's population data using Python.
+
+## What I Did
+
+* Analyzed population of different states and union territories.
+* Analyzed male and female population.
+* Used Pandas for data analysis.
+* Created visualizations using Matplotlib.
+
+## Tools Used
+
+* Python
+* Pandas
+* Matplotlib
+* Jupyter Notebook
+
+## Dataset
+
+The dataset contains population information for Indian states and union territories.
+
+## Conclusion
+
+This project helped me practice basic data analysis and data visualization using Python, Pandas, and Matplotlib.
